@@ -1,0 +1,6 @@
+print("The Nile River runs through Egypt.") 
+print("The Amazon River runs through Brazil.")
+print("The Yangtze River runs through China.")
+print("the Nile River is in Egypt") 
+print("the Amazon River is in Brazil")
+print("the Yangtze River is in China.")

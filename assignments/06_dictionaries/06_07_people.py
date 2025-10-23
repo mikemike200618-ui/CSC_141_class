@@ -1,0 +1,8 @@
+print("john doe 's favorite language is english.") 
+print("jane smith 's favorite language is french.")
+print("alice jones 's favorite language is spanish.")
+print("list of people who took the poll") 
+print("list of people who have not taken the poll")
+print("john doe's favorite language is english,he is 30 years old and lives in detroit.") 
+print("jane smith's favorite language is french,she is 25 years old and lives in miami.")
+print("alice jones's favorite language is spanish,she is 28 years old and lives in seattle.")

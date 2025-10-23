@@ -1,0 +1,8 @@
+print("a dictionary of favorite places for several people") 
+print("list of people and their favorite places")
+print("list of people who have not shared their favorite places")
+print("john doe's favorite place is paris, he is 30 years old and lives in detroit.") 
+print("jane smith's favorite place is tokyo, she is 25 years old and lives in miami.")
+print("alice jones's favorite place is sydney, she is 28 years old and lives in seattle.")
+print("a list of favorite places and their owners") 
+print("a list of people and their favorite places")  

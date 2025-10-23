@@ -1,0 +1,8 @@
+print("john doe's favorite language is english.") 
+print("jane smith's favorite language is french.")  
+print("alice jones's favorite language is spanish.") 
+print("message to john doe: thank you for participating in the poll.") 
+print("message to jane smith: thank you for participating in the poll.")
+print("message to alice jones: thank you for participating in the poll.")
+print("message to bob brown: we invite you to take our poll.") 
+print("message to charlie davis: we invite you to take our poll.")
